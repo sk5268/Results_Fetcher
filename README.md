@@ -13,6 +13,11 @@ The reason I didn't build a UI to it is because it would be an overkill.
 Hardly used once or twice a semseter, UI was totally unnecessary. \
 Apart from rankings, you can also calculate a few statistics namely, average GPA and number of students passed, failed & withheld.
 
+
+# Requirements
+1. reportlab python package (https://pypi.org/project/reportlab/)
+2. re & requests (core python packages)
+
 # Usage
 1. change the variable `purl` to the live results link.
 2. change the `r_start` & `r_end` variables with starting and ending roll numbers.
