@@ -53,8 +53,6 @@ def main1():
                             fw.write(line)
                         ptr += 1 
 
-#main1()
-
 def main2():
     for i in range(r_start1, r_end1 + 1):
         fn1 =   '\\' + str(i) + ".html"
@@ -81,8 +79,6 @@ def main2():
             res_w[name] = sgpa
         else:
             res_p[name] = sgpa
-
-main2()
 
 res_p = dict(sorted(res_p.items(), key=lambda x:x[1], reverse = True))
 
@@ -126,6 +122,9 @@ def build_report(main_list):
 
     pdf.build(elements)
 
+# uncomment the following 3 function calls
+#main1()
+#main2()
 #build_report(main_list)
 
 #print(res_p)
