@@ -19,7 +19,7 @@ Apart from rankings, you can also calculate a few statistics namely, average gpa
 3. Run the damn script.
 
 # Note
-Last used: July 2024 \n
+Last used: July 2024 \
 Status: Working as intended
 
 # Upcoming Features:
