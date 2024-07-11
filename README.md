@@ -24,3 +24,4 @@ Status: Working as intended
 
 # Upcoming Features:
 1. Relative GPA
+2. Remove unnecessary disk writes and reads.
