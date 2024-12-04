@@ -4,7 +4,7 @@ Fetch Results from the univeristy's result server without manual intervention &a
 This project was specifically built for Osmania University's server.
 Although, idea is the same if your Uni's results are not password protected.
 
-[output.pdf](https://github.com/user-attachments/files/18002560/output.pdf)
+[Demo/Results](https://github.com/user-attachments/files/18002560/output.pdf)
 
 # Background
 
